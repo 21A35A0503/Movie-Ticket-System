@@ -10,7 +10,7 @@
         
         Booking ID: 9c75e44a-5b6e-42d6-b49e-4fa78fbaf4bb
         Name: Harika
-        Movie: MaaIntiBangaram
+        Movie: Maa Inti Bangaram
 
         
         Booking ID: 2ded60b6-2130-463a-9d0c-b8f1be314ecd
@@ -22,8 +22,5 @@
         Name: sara
         Movie: Paradise
 
-        Booking ID: 74dbcd84-94bc-458f-84f7-d840b46f681b
-        Name: sara
-        Movie: Paradise
 
         
